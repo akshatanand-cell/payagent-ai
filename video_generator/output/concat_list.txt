@@ -1,0 +1,5 @@
+file 'C:/Users/KIIT/.gemini/antigravity/scratch/payagent-ai/video_generator/output/scene_1_intro_rendered.mp4'
+file 'C:/Users/KIIT/.gemini/antigravity/scratch/payagent-ai/video_generator/output/scene_2_architecture_rendered.mp4'
+file 'C:/Users/KIIT/.gemini/antigravity/scratch/payagent-ai/video_generator/output/scene_3_paypal_sandbox_rendered.mp4'
+file 'C:/Users/KIIT/.gemini/antigravity/scratch/payagent-ai/video_generator/output/scene_4_aggrid_telemetry_rendered.mp4'
+file 'C:/Users/KIIT/.gemini/antigravity/scratch/payagent-ai/video_generator/output/scene_5_conclusion_rendered.mp4'
